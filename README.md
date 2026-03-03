@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arham S C 👋</h1>
+<h1 align="center">Hi, I'm S C Arham 👋</h1>
 
 <h3 align="center">
 Full‑Stack & Flutter Developer • ML Engineer • IoT & Embedded Specialist
